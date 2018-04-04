@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/bin/Debug/netcoreapp2.0/basic13.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/bin/Debug/netcoreapp2.0/basic13.dll
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/bin/Debug/netcoreapp2.0/basic13.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/obj/Debug/netcoreapp2.0/basic13.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/obj/Debug/netcoreapp2.0/basic13.dll
+/Users/rose/Desktop/DojoAssignments/netCore/basic13/obj/Debug/netcoreapp2.0/basic13.pdb
